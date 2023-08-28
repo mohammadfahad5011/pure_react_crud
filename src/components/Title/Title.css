@@ -1,0 +1,8 @@
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  font-weight: 600;
+  color: olive;
+  text-transform: capitalize;
+  margin-top: 20px;
+}

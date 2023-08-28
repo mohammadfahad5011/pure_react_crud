@@ -1,0 +1,13 @@
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.upBtn {
+  background: green;
+}
+.delBtn {
+  background: red;
+}
